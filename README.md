@@ -109,6 +109,63 @@ As an indie developer, independently completed full-cycle development of multipl
 - 💻 **桌面应用** - 跨平台桌面软件
 - 📲 **移动应用** - iOS/Android 应用开发
 
+## 🛠️ 开源项目 / Open Source Projects
+
+### 🎬 [FFmpeg 视频编辑器](https://github.com/NoyaMrXiao/ffmpeg-video-editor)
+**Python 音视频处理工具**
+
+基于 FFmpeg 的桌面媒体处理应用，支持视频、音频、图片的格式转换、压缩和信息查看。使用 CustomTkinter 构建现代化界面，支持 macOS 应用打包。
+
+A desktop media processing application based on FFmpeg, supporting format conversion, compression, and information viewing for videos, audio, and images. Built with CustomTkinter for a modern UI, with macOS app packaging support.
+
+**技术栈：** Python, FFmpeg, CustomTkinter, OpenCV, py2app
+
+---
+
+### 🎨 [Figma 插件](https://github.com/NoyaMrXiao/figma--)
+**Figma 设计工具插件**
+
+Figma 平台插件，用于增强设计工作流程和自动化设计任务。
+
+A Figma plugin for enhancing design workflows and automating design tasks.
+
+**技术栈：** Figma Plugin API, TypeScript
+
+---
+
+### ⛓️ [区块链交易应用](https://github.com/NoyaMrXiao/blockchain)
+**React Native + Expo 移动应用**
+
+基于 React Native 和 Expo 开发的区块链交易移动应用，支持加密货币交易和钱包管理。
+
+A blockchain trading mobile application built with React Native and Expo, supporting cryptocurrency trading and wallet management.
+
+**技术栈：** React Native, Expo, TypeScript
+
+---
+
+### 🔧 [开发工具集](https://github.com/NoyaMrXiao/dev-tools)
+**Python 实用工具集合**
+
+一系列实用的 Python 开发工具，提高开发效率和自动化日常任务。
+
+A collection of practical Python development tools to improve development efficiency and automate daily tasks.
+
+**技术栈：** Python
+
+---
+
+### ⌨️ [KeyFlow](https://github.com/NoyaMrXiao/KeyFlow)
+**macOS 桌面应用**
+
+基于 Electron 开发的 macOS 桌面应用，提供高效的工作流程管理功能。
+
+A macOS desktop application built with Electron, providing efficient workflow management features.
+
+**技术栈：** Electron, JavaScript/TypeScript
+
+---
+
 ## 📫 联系方式 / Contact
 
 - 📧 Email: [3090699578@qq.com]
