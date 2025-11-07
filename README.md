@@ -122,14 +122,15 @@ A desktop media processing application based on FFmpeg, supporting format conver
 
 ---
 
-### 🎨 [Figma 插件](https://github.com/NoyaMrXiao/figma--)
-**Figma 设计工具插件**
+### 🎨 [Component Variants Export](https://www.figma.com/community/plugin/1567838615160880097/component-variants-export) | [GitHub](https://github.com/NoyaMrXiao/figma--)
+**Figma 组件变体导出插件**
 
-Figma 平台插件，用于增强设计工作流程和自动化设计任务。
+Figma 社区发布的插件，用于批量导出组件变体，提高设计到开发的协作效率。支持自定义导出格式和批量处理。
 
-A Figma plugin for enhancing design workflows and automating design tasks.
+A Figma Community plugin for batch exporting component variants, improving design-to-development collaboration efficiency. Supports custom export formats and batch processing.
 
-**技术栈：** Figma Plugin API, TypeScript
+**技术栈：** Figma Plugin API, TypeScript  
+**发布平台：** [Figma Community](https://www.figma.com/community/plugin/1567838615160880097/component-variants-export)
 
 ---
 
@@ -163,6 +164,18 @@ A collection of practical Python development tools to improve development effici
 A macOS desktop application built with Electron, providing efficient workflow management features.
 
 **技术栈：** Electron, JavaScript/TypeScript
+
+---
+
+### 📦 [lucide-taro-react](https://www.npmjs.com/package/lucide-taro-react)
+**npm 包 - Taro React 图标库**
+
+为 Taro 框架适配的 Lucide 图标库 React 组件，提供丰富的图标资源，支持 Taro 小程序和 H5 开发。
+
+A Lucide icon library React component adapted for the Taro framework, providing rich icon resources for Taro mini-program and H5 development.
+
+**技术栈：** React, Taro, TypeScript  
+**发布平台：** [npm](https://www.npmjs.com/package/lucide-taro-react)
 
 ---
 
