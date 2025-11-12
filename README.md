@@ -134,6 +134,18 @@ A Figma Community plugin for batch exporting component variants, improving desig
 
 ---
 
+### 🤖 [AI Auto Naming](https://www.figma.com/community/plugin/1569668830987093633/ai-auto-naming) | [GitHub](https://github.com/NoyaMrXiao/Figma-AI-AutoName)
+**Figma AI 智能命名插件**
+
+使用 AI 技术自动为 Figma 设计元素生成语义化、规范的命名。支持视觉分析、批量命名和 Frame 结构分析，结合 GPT-4o 视觉模型，能够理解元素的外观和功能，生成更准确的命名建议。
+
+A Figma plugin that uses AI technology to automatically generate semantic and standardized names for design elements. Supports visual analysis, batch naming, and frame structure analysis. Integrated with GPT-4o vision model to understand element appearance and functionality for more accurate naming suggestions.
+
+**技术栈：** Figma Plugin API, TypeScript, Express, OpenAI GPT-4o, esbuild  
+**发布平台：** [Figma Community](https://www.figma.com/community/plugin/1569668830987093633/ai-auto-naming)
+
+---
+
 ### ⛓️ [区块链交易应用](https://github.com/NoyaMrXiao/blockchain)
 **React Native + Expo 移动应用**
 
